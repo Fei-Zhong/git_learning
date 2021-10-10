@@ -9,3 +9,4 @@ git pull test
 it is master
 shanghai is a good place
 i like shanghai
+bejing is a good place
