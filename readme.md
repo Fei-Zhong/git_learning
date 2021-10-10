@@ -7,3 +7,4 @@ dev test
 git pull test
 
 it is master
+shanghai is a good place
