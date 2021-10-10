@@ -7,3 +7,4 @@ dev test
 git pull test
 
 bejing is a good place
+i like beijing
