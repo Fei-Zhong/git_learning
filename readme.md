@@ -5,3 +5,4 @@ master 1
 shanghai 1
 shanghai 2
 bejing 1
+beijing 2
